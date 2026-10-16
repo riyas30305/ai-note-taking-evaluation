@@ -343,3 +343,15 @@ Official PDF: https://desapublications.un.org/file/1182/download
 ### Project status
 
 This repository documents an exploratory evaluation of Gemini Notebook using selected claims from one United Nations report. The five claim checks are documented above. Evidence screenshots should be uploaded and linked before the repository is submitted as the final experiment record.
+
+## Evidence Screenshots
+
+The following screenshots document the five claim-verification checks conducted against the original *Global Sustainable Development Report 2023*. Each image shows the relevant passage or figure used to assess whether Gemini Notebook's output was supported by the source.
+
+1. **Claim 1 — Forced displacement:** [View evidence](evidence/claim%201%20-%2089.3%20million.png)
+2. **Claim 2 — Income inequality:** [View evidence](evidence/claim%202%20-%2052%20percent.png)
+3. **Claim 3 — Sustainability reporting:** [View evidence](evidence/claim%203%20-%2035%20per%20cent%20SP%20500.png)
+4. **Claim 4 — Six transformation entry points:** [View evidence](evidence/claim%204%20-%20entry%20pointss.png)
+5. **Claim 5 — Transformation S-curve:** [View evidence](evidence/claim%205%20-%20emergence%2C%20acceleration..png)
+
+These screenshots support the documented verification process. They should be interpreted alongside the surrounding report text and the critical evaluation in this README.
