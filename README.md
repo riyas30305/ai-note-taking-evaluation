@@ -355,3 +355,10 @@ The following screenshots document the five claim-verification checks conducted 
 5. **Claim 5 — Transformation S-curve:** [View evidence](evidence/claim%205%20-%20emergence%2C%20acceleration..png)
 
 These screenshots support the documented verification process. They should be interpreted alongside the surrounding report text and the critical evaluation in this README.
+
+### Gemini Notebook Output Evidence
+
+The following screenshots document the AI-generated outputs used in the experiment. The summary demonstrates the tool's ability to organise information from the source report, while the ESG briefing findings demonstrate how it extracts and presents information relevant to a university sustainability briefing.
+
+- [AI-generated report summary](evidence/gemini-notebook-summary.png)
+- [AI-generated ESG briefing findings](evidence/gemini-notebook-esg-findings.png)
